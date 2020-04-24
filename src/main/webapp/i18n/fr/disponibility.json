@@ -1,0 +1,9 @@
+{
+  "testApp": {
+    "Disponibility": {
+      "null": "",
+      "AVAILABLE": "AVAILABLE",
+      "UNAVAILABLE": "UNAVAILABLE"
+    }
+  }
+}
